@@ -1,0 +1,12 @@
+npm init
+npm i express
+npm i mongoose
+npm i cors  
+npm i dotenv
+npm i multer
+npm i validator
+npm i nodemon
+npm i moment
+npm i fast-csv
+
+
